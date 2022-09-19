@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baaromaas Travel</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">Xsf-ZhB4i7rons4rN2ZzIbn3gedN-Wd5vuRH5</string>
+    <string name="facebook_app_id">810369599611772</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948627262275",
+    "project_id": "baaromaas-41a76",
+    "storage_bucket": "baaromaas-41a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948627262275:android:07a84ee04bf3c8f544fdf6",
+        "android_client_info": {
+          "package_name": "com.baaromaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948627262275-4390sgr8gdr2a7t9o3ubm8gia9tshpuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baaromaas",
+            "certificate_hash": "534bc2e7690b6739867f9a838675c4c5a1a02249"
+          }
+        },
+        {
+          "client_id": "948627262275-meknbbolj73svupptfk0oer7pju7s5es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZezeHSKTzefXINsM9BYURi4FwbsOeWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948627262275-meknbbolj73svupptfk0oer7pju7s5es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
